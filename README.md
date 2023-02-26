@@ -1,3 +1,3 @@
-# Bega Boy
+#Five Cats in a trench Coat
 
-a platformer adventure game about a rutabega trying to find his place in the world.
+a multiplayer 2d pizzle solver game inspired by Among Us and Sly Cooper.
